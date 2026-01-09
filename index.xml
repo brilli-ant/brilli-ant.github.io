@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Brilli_Ant</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Brilli_Ant</description>
+    <generator>Hugo -- 0.154.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Jan 2026 18:14:18 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About_website</title>
+      <link>http://localhost:1313/posts/about_website/</link>
+      <pubDate>Fri, 09 Jan 2026 18:14:18 +0800</pubDate>
+      <guid>http://localhost:1313/posts/about_website/</guid>
+      <description>&lt;h1 id=&#34;about-website&#34;&gt;About Website&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;install git, go, hugo&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;hugo new site website&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;cd website &amp;amp;&amp;amp; git init&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git submodule add --depth=1 https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;add &lt;code&gt;theme: [&amp;quot;PaperMod&amp;quot;]&lt;/code&gt; to &lt;code&gt;hugo.yaml&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;hugo new contents/posts/about_website.md&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;change &lt;code&gt;draft: true&lt;/code&gt; to &lt;code&gt;draft: false&lt;/code&gt; in &lt;code&gt;about_website.md&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;hugo server -D&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+  </channel>
+</rss>
