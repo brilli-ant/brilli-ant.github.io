@@ -24,6 +24,8 @@
 &lt;li&gt;&lt;code&gt;hugo new contents/posts/about_website.md&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;change &lt;code&gt;draft: true&lt;/code&gt; to &lt;code&gt;draft: false&lt;/code&gt; in &lt;code&gt;about_website.md&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;hugo server -D&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;cd public&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git init&lt;/code&gt;&lt;/li&gt;
 &lt;/ol&gt;</description>
     </item>
   </channel>
