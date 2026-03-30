@@ -2,17 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Brilli_Ant</title>
-    <link>https://brilli-ant.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Brilli_Ant</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Jan 2026 18:14:18 +0800</lastBuildDate>
-    <atom:link href="https://brilli-ant.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 22:28:18 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Camera</title>
+      <link>http://localhost:1313/posts/camera/</link>
+      <pubDate>Mon, 30 Mar 2026 22:28:18 +0800</pubDate>
+      <guid>http://localhost:1313/posts/camera/</guid>
+      <description>&lt;h1 id=&#34;camera&#34;&gt;Camera&lt;/h1&gt;
+&lt;h2 id=&#34;exposure-triangle&#34;&gt;Exposure Triangle&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Aperture &lt;code&gt;f/&amp;lt;num&amp;gt;&lt;/code&gt;: Controls the amount of light entering the lens. The smaller the &lt;code&gt;&amp;lt;num&amp;gt;&lt;/code&gt;, the wider the aperture, resulting in a shallower depth of field and more background blur (bokeh).&lt;/li&gt;
+&lt;li&gt;Shutter Speed &lt;code&gt;1/&amp;lt;num&amp;gt;&lt;/code&gt;: The smaller the &lt;code&gt;&amp;lt;num&amp;gt;&lt;/code&gt;, the longer the exposure time, making moving objects appear more blurred.&lt;/li&gt;
+&lt;li&gt;ISO &lt;code&gt;ISO &amp;lt;num&amp;gt;&lt;/code&gt;: Light sensitivity. The larger the &lt;code&gt;&amp;lt;num&amp;gt;&lt;/code&gt;, the higher the ISO, resulting in a brighter photo but rougher image quality (more noise/grain).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;focal-length&#34;&gt;Focal Length&lt;/h2&gt;
+&lt;p&gt;The larger the focal length, the more it resembles a telescope (magnification), and the shallower the depth of field.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>About Website</title>
-      <link>https://brilli-ant.github.io/posts/about_website/</link>
+      <link>http://localhost:1313/posts/about_website/</link>
       <pubDate>Fri, 09 Jan 2026 18:14:18 +0800</pubDate>
-      <guid>https://brilli-ant.github.io/posts/about_website/</guid>
+      <guid>http://localhost:1313/posts/about_website/</guid>
       <description>&lt;h1 id=&#34;about-website&#34;&gt;About Website&lt;/h1&gt;
 &lt;p&gt;Use hugo+PaperMod theme to create a website.&lt;/p&gt;
 &lt;ol&gt;
